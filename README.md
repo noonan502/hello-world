@@ -1,2 +1,2 @@
 # hello-world
-education
+education demo
